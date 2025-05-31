@@ -37,7 +37,6 @@ I'm an Information Systems student passionate about building systems that matter
 ---
 
 ## 📘 Currently Learning
-- 📐 Relearning Math for Developers ("Math Restart")
 - 🤖 Applied ML for classification & clustering
 - 📊 Better software quality evaluation using ISO/IEC 25010
 
