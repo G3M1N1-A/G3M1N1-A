@@ -43,6 +43,4 @@ I'm an Information Systems student passionate about building systems that matter
 ---
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](your-link)
-- ✍️ [Portfolio Site](if-any)
-- 📨 Email: your.email@example.com
+- 📨 Email: iverxhyle@gmail.com
